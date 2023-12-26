@@ -1,1 +1,1 @@
-"# Pokedex-next-app" 
+# Pokedex-next-app

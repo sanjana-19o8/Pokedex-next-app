@@ -1,0 +1,6 @@
+BeatLoader {
+  display: 'block';
+  margin: '0 auto';
+  border-color: '$color$mangoPale';
+  width: 'fit-content';
+}

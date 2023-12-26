@@ -1,0 +1,43 @@
+{
+  "name": "pokemon-next-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && next export",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/cache": "^11.11.0",
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "@emotion/weak-memoize": "^0.3.1",
+    "@mui/icons-material": "^5.15.2",
+    "@mui/material": "^5.10.8",
+    "@mui/styled-engine-sc": "^5.10.6",
+    "@types/react-svg-radar-chart": "^1.2.3",
+    "@types/uuid": "^8.3.4",
+    "axios": "^1.1.2",
+    "chart.js": "^3.9.1",
+    "kill-port": "^2.0.1",
+    "next": "12.3.1",
+    "react": "18.2.0",
+    "react-chartjs-2": "^4.3.1",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.4.0",
+    "react-spinners": "^0.13.8",
+    "react-svg-radar-chart": "^1.4.0",
+    "react-toastify": "^9.0.8",
+    "styled-components": "^5.3.6",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "18.8.3",
+    "@types/react": "18.0.21",
+    "@types/react-dom": "18.0.6",
+    "eslint": "8.25.0",
+    "eslint-config-next": "12.3.1",
+    "typescript": "4.8.4"
+  }
+}

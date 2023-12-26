@@ -1,0 +1,9 @@
+.wrapper {
+    color: black;
+    padding: 1%;
+    margin: 1%;
+    border-bottom: 2px rgba(248, 238, 211, 0.6);
+    position: absolute;
+    left: 0;
+    top: 0;
+}
